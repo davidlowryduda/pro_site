@@ -1,0 +1,18 @@
+{% extends "base.html.jinja" %}
+
+{% block content %}
+
+<div class="page">
+
+{% if title %}
+<h1 class="page-title">
+  <a href="https://davidlowryduda.com/index.html">{{ title }}</a>
+</h1>
+{% endif %}
+
+{{ stuff }}
+
+</div>
+
+
+{% endblock content %}

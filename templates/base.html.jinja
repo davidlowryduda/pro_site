@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en-us" lang="en-us">
+
+{% include "head.html.jinja" %}
+
+<body class="theme-base-0c">
+
+{% include "sidebar.html.jinja" %}
+
+<div class="content container">
+{% block content %}
+
+<div class="posts">
+
+  <div class="post">
+    <h1 class="post-title">
+      <a href="https://davidlowryduda.com/about">
+        This is a sample post in the base template.
+      </a>
+    </h1>
+
+<span class="post-date">Sat, Feb 29, 2020</span>
+
+<p>STUFF</p>
+
+<h2>Headers work too</h2>
+
+  </div>
+
+  <div class="post">
+    <h1 class="post-title">
+      Other post.
+    </h1>
+
+STUFF
+
+  </div>
+
+</div>
+
+{% endblock content %}
+
+</div>
+
+  </body>
+</html>
