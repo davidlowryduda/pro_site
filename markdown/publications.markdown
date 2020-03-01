@@ -1,20 +1,38 @@
 
-## [Publications](publications.html) {: #publications }
+## [Publications](#publications) {: #publications }
 
-### In progress {: #publications_in_progress }
+### In progress and/or recently submitted {: #publications_in_progress }
+
+1. David Lowry-Duda,
+   *Visualizing modular forms*.  
+   [arxiv preprint](https://arxiv.org/abs/2002.05234).
+
+1. Alex J. Best, Jonathan Bober, Andrew R. Booker, Edgar Costa, John Cremona,
+   Maarten Derickx, David Lowry-Duda, Min Lee, David Roe, Andrew V. Sutherland,
+   John Voight,
+   *Computing classical modular forms*.  
+   [arxiv preprint](https://arxiv.org/abs/2002.04717).
+
+1. David Lowry-Duda,
+   *Congruent number triangles with the same hypotenuse*.  
+   [arxiv preprint](https://arxiv.org/abs/2002.01024)
+
+1. Thomas Hulse, Chan Ieong Kuan, David Lowry-Duda, and Alexander Walker,
+   *Triple Correlation Sums of Coefficients of Cusp Forms*.  
+   [arxiv preprint](https://arxiv.org/abs/1911.09216).
 
 1. David Lowry-Duda, *Non-real poles and irregularity of distribution*.  
    [arxiv preprint](https://arxiv.org/abs/1910.09969).
 
-2. Thomas Hulse, Chan Ieong Kuan, David Lowry-Duda, and Alexander Walker,
+1. Thomas Hulse, Chan Ieong Kuan, David Lowry-Duda, and Alexander Walker,
    *Triple Correlation Sums of Coefficients of Cusp Forms*.  
    [arxiv preprint](https://arxiv.org/abs/1911.09216).
 
-3. Thomas Hulse, Chan Ieong Kuan, David Lowry-Duda, and Alexander Walker,
+1. Thomas Hulse, Chan Ieong Kuan, David Lowry-Duda, and Alexander Walker,
    *The Laplace Transform of the Second Moment in the Gauss Circle Problem*.  
    [arxiv preprint](https://arxiv.org/abs/1705.04771).
 
-4. David Lowry-Duda, Takashi Taniguchi, and Frank Thorne,
+1. David Lowry-Duda, Takashi Taniguchi, and Frank Thorne,
    *Uniform bounds for lattice point counting and partial sums of zeta
    functions.*  
    [arxiv preprint](https://arxiv.org/abs/1710.02190).
@@ -76,4 +94,5 @@
 ### PhD Thesis {: #thesis }
 
 - David Lowry-Duda, *On Some Variants of the Gauss Circle Problem*. Brown
-  University. [arxiv link](https://arxiv.org/abs/1704.02376).
+  University.  
+  [arxiv link](https://arxiv.org/abs/1704.02376).
